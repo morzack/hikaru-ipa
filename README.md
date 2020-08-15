@@ -1,4 +1,12 @@
-# hikaru
-A rewrite of my first vanilla js project. Based on [Real Kana](https://realkana.com/).
+# hikaru-ipa
+Based off [hikaru](https://github.com/joaopscosta/hikaru) developed by [@joaopscosta](https://github.com/joaopscosta/), which is in turn based off [Real Kana](https://realkana.com/).
+Also, kudos to [@NickOveracker](https://github.com/NickOveracker) and his [meremer](https://github.com/NickOveracker/meremer), of which I borrowed some logic.
 
-[Project Site](https://joaopscosta.github.io/hikaru/)
+This is effectively a variant of a site like [Real Kana](https://realkana.com) except designed to work with the International Phonetic Alphabet (IPA).
+
+- IPA ASCII is derived from ["The ASCII Phonetic Alphabet"](http://www.antimoon.com/how/pronunc-ascii.htm)
+- [IPA French](https://en.wikipedia.org/wiki/Help:IPA/French) and [IPA English](https://en.wikipedia.org/wiki/Help:IPA/English) are modelled after their respective Wikipedia pages
+
+[Project site](https://morzack.github.io/hikaru-ipa/)
+
+Disclaimer: I am not a linguist, but rather a clueless CS student that has taken wacky classes, and there are very likely errors. Please correct me if you find any :)
